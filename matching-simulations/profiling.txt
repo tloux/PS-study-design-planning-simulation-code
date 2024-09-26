@@ -1,0 +1,22 @@
+2024-04-08 laptop, all matching, 10 samples each
+535.28 seconds
+x1000 = ~150 hours = ~6.2 days
+
+2024-04-08 cluster, all matching, 10 samples each
+698.24 seconds
+x1000 = ~194 hours = ~8.1 days
+
+2024-04-09 laptop snowfall 4 cores, all matching, 10 samples each
+188.94 seconds
+x1000 = ~53 hours = ~2.2 days
+
+
+#### REVISED POST-MATCH T TEST TO INCLUDE WEIGHTING ####
+
+2024-04-09 laptop snowfall 4 cores, all matching, 10 samples each
+179.36 seconds
+x1000 = ~50 hours = ~2.1 days
+
+2-24-04-11 cluster snowfall 8 cores, all matching, 10 samples each
+147 seconds
+x1000 = ~41 hours = ~1.7 days
