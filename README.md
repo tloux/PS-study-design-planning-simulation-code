@@ -1,0 +1,1 @@
+The file **matching-simulations/run-match-sims-parallel.RData** is not uploaded here due to storage limitations. Results can be obtained by running the code in **matching-simulations/run-match-sims-parallel.R**, though this will take several hours.
